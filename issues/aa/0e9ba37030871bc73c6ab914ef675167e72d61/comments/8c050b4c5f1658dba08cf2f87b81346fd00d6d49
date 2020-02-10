@@ -1,0 +1,6 @@
+PermissionLevel:
+- See eosio::action::test::test_from_bytes_ok for an idea.
+
+Sending actions (inline?, context_free?, deferred?):
+- For hints, look at cpp code of an eosio contract in production.
+
