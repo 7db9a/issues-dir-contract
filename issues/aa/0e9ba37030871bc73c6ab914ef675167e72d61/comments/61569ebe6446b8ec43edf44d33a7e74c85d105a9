@@ -1,0 +1,11 @@
+Idea from reading eosio-rust source code (no published docs, yet):
+
+1. Instantiate eosio::action::Action.
+   
+   * Not sure exactly how permissions are set or requested.
+   
+2. Invoke eosio_cdt::action::send...
+   
+   * Not sure which send function to use.
+
+For PermissionLevel argument, see action::test_test
