@@ -1,0 +1,6 @@
+I was going to use eosio_rpc::get_currency_balance. It's no on crates.io,
+but I linked to from eosio-rust gitmodules. However, the eosio_abi
+itself depends on appears to be unpublished on github.
+
+Just use cleos with rust's Command to get balance for now. Refactor
+when eosio_rpc is published.
