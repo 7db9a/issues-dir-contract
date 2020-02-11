@@ -1,0 +1,7 @@
+Script a test to send and get token balance:
+
+1. Send token using eoslime.
+
+2. Create action to get token balance.
+
+3. Invoke action to get balance using eoslime.
