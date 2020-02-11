@@ -1,0 +1,5 @@
+See cleos example for setting permissions.
+
+$ jrnl linux @eos @permissions -and
+
+Probably just use command-line for setting permissions.
