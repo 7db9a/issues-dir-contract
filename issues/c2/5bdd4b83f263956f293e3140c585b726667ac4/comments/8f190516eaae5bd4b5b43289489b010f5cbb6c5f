@@ -1,0 +1,4 @@
+Use the eosio_token api to get balance. See the rust code.
+
+Also, you can transfer tokens using the eosio_token api.
+Again, see the rust code.
