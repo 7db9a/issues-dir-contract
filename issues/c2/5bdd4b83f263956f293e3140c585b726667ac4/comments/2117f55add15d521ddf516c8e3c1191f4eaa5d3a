@@ -1,0 +1,3 @@
+Added getbalance action to eosio-rust's getbalance.
+
+See cpp version for debugging.
