@@ -1,0 +1,5 @@
+The table scope for actions should be the account name of original deployment.
+
+table(code, scope), where code = 'contract.name' and scope = 'account' that owns the data.
+
+
